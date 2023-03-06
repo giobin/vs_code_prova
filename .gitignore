@@ -1,3 +1,5 @@
-./runs
-./video*
-./.conda
+/runs/
+/video*/
+/.conda/
+
+.DS_Store
